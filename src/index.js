@@ -1,9 +1,9 @@
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './css/styles.css';
-import Triangle from './js/triangle.js';
-import Rectangle from './js/rectangle.js';
+import [] from './js/[].js';
 
+/*
 function handleTriangleForm() {
   event.preventDefault();
   document.querySelector('#response').innerText = null;
@@ -32,4 +32,5 @@ function handleRectangleForm() {
 window.addEventListener("load", function() {
   document.querySelector("#triangle-checker-form").addEventListener("submit", handleTriangleForm);
   document.querySelector("#rectangle-area-form").addEventListener("submit", handleRectangleForm);
-});
+}); */
+
